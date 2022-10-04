@@ -10,7 +10,7 @@ int main()
         int a,b,op,ans;
         cout<<"\nEnter first no:";
         cin>>a;
-        cout<<"\nEnter opetrator: \n 1.+ \n 2.- \n 3.* \n 4./ \n5.% : ";
+        cout<<"\nEnter operator: \n 1.+ \n 2.- \n 3.* \n 4./ \n5.% : ";
         cin>>op;
         cout<<"\nEnter second no:";
         cin>>b;
